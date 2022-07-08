@@ -1,0 +1,45 @@
+body {
+	margin-top: 20px;
+	background-color: gray;
+}
+
+.fa-fw {
+	list-style-type: none;
+	width: 10em;
+	float: right;
+	padding: 1.5em;
+}
+
+.admin-content {
+	margin-top: 2.5em;
+	padding-top: 2.5em;
+	border: 1px gray solid;
+	border-radius: 0.5em;
+	background-color: #56baed;
+	transition: all linear 0.5s;
+	overflow: hidden;
+}
+
+.admin-menu {
+	padding-top: 2em;
+}
+
+a {
+	
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	display: inline-block;
+	width: 1.5enm;
+	background-color: #56baed;
+	border-radius: 0.5em;
+	color: white;
+	padding-left: 1em;
+	padding-top: 0.2em;
+	text-decoration: none;
+}
+span {
+	
+	text-align: center;
+}

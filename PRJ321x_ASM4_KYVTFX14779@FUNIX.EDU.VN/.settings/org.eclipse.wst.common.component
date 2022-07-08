@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="PRJ321x_ASM4_KYVTFX14779@FUNIX.EDU.VN">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Java Resources"/>
+                
+        <property name="java-output-path" value="/PRJ321x_ASM4_KYVTFX14779@FUNIX.EDU.VN/build/classes"/>
+        <property name="context-root" value="PRJ321x_ASM4_KYVTFX14779@FUNIX.EDU.VN"/>
+            
+    </wb-module>
+    
+</project-modules>
